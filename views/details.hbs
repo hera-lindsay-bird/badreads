@@ -1,12 +1,17 @@
 <div class='book'>
   <img class='img-rectangle' src='{{image}}' alt='{{name}}' />
-  <h2>{{name}}</h2>
-  <div>Author: {{author}}</div>
-  <div>Publication date: {{publication}}</div>
+  <h2>{{author}}</h2>
+  <div>Birth Date: {{birthdate}}</div>
+  <div>Birthplace: {{birthplace}}</div>
+  <div>Died: {{death}}</div>
+  <div>Starsign:
+    {{#each starsign}}
+      <a href='/starsign/{{starsign}}'>{{this}}</a>
+    {{/each}}</div>
+
   <div>Subjects:
     {{#each subjects}}
       <a href='/subjects/{{this}}'>{{this}}</a>
     {{/each}}
   </div>
-  <!-- <a href='/books/{{id}}/edit'>Edit</a> -->
 </div>

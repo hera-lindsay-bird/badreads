@@ -28,6 +28,21 @@ router.get('/subjects/:topic', (req, res) => {
     })
 })
 
+router.get('/starsign/:topic', (req, res) => {
+  readBook()
+    .then((books) => {
+      const booksArr = books.books
+      const booksData = booksArr.filter((book) =>
+        book.starsign.includes(req.params.topic)
+      )
+      res.render('saggitarius', { booksData })
+    })
+    .catch((e) => {
+      console.log(e)
+      res.sendStatus(500)
+    })
+})
+
 router.get('/:id', (req, res) => {
   readBook()
     .then((books) => {
