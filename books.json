@@ -5,7 +5,7 @@
       "name": "Answer and It Is Given",
       "author": "Esther and Jerry Hicks",
       "publication": "September 2004",
-      "image": "/images/selfHelp-1.jpg",
+      "image": "/images/3.jpg",
       "subjects": ["self-help"]
     },
     {
@@ -13,7 +13,7 @@
       "name": "Master Key System",
       "author": "Charles F. Haanel",
       "publication": "7 November 2006",
-      "image": "/images/selfHelp-2.jpg",
+      "image": "/images/2.jpg",
       "subjects": ["self-help"]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Breaking The Habit of Being Yourself",
       "author": "Dr. Joe Dispenza",
       "publication": "15 February 2012",
-      "image": "/images/selfHelp-3.jpg",
+      "image": "/images/4.jpg",
       "subjects": ["self-help"]
     },
     {
@@ -29,7 +29,7 @@
       "name": "The Power of Now",
       "author": "Eckhart Tolle",
       "publication": "6 October 2010",
-      "image": "/images/selfHelp-4.jpg",
+      "image": "/images/5.jpg",
       "subjects": ["self-help"]
     },
     {
@@ -37,7 +37,7 @@
       "name": "The Hitchhiker's Guide to the Galaxy",
       "author": "Douglas Adams",
       "publication": "October 1979",
-      "image": "/images/sciFi-5.jpg",
+      "image": "/images/6.jpg",
       "subjects": ["funny", "sci-fi"]
     },
     {
@@ -45,7 +45,7 @@
       "name": "The Martian",
       "author": "Andy Weir",
       "publication": "September 2011",
-      "image": "/images/sciFi-6.jpg",
+      "image": "/images/7.jpg",
       "subjects": ["sci-fi"]
     },
     {
@@ -53,7 +53,7 @@
       "name": "World War Z: An Oral History of the Zombie War",
       "author": "Max Brooks",
       "publication": "September 2006",
-      "image": "/images/sciFi-7.jpg",
+      "image": "/images/8.jpg",
       "subjects": ["sci-fi", "gothic"]
     },
 
@@ -62,7 +62,7 @@
       "name": "Gormenghast Trilogy",
       "author": "Mervyn Peake",
       "publication": "1950",
-      "image": "/images/cult-8.jpg",
+      "image": "/images/9.jpg",
       "subjects": ["funny", "gothic"]
     }, 
     {
@@ -70,7 +70,7 @@
       "name": "The Bears' Famous Invasion of Sicily",
       "author": "Dino Buzatti",
       "publication": "1945",
-      "image": "/images/cult-9.jpg",
+      "image": "/images/10.jpg",
       "subjects": ["funny", "children"]
     },
 
@@ -79,7 +79,7 @@
       "name": "We Have Always Lived in the Castle",
       "author": "Shirley Jackson",
       "publication": "1965",
-      "image": "/images/cult-10.jpg",
+      "image": "/images/11.jpg",
       "subjects": ["funny", "gothic"]
     },
 
@@ -88,7 +88,7 @@
       "name": "I Feel Bad About My Neck",
       "author": "Nora Ephron",
       "publication": "2006",
-      "image": "/images/self-help5.jpg",
+      "image": "/images/13.jpg",
       "subjects": ["funny", "self-help"]
     }, 
     {
@@ -96,7 +96,7 @@
       "name": "A Wind In The Door",
       "author": "Madeline L'Engle",
       "publication": "1973",
-      "image": "/images/cult-12.jpg",
+      "image": "/images/12.jpg",
       "subjects": ["children", "sci-fi"]
     }
   ]
