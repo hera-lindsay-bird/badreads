@@ -6,8 +6,8 @@
       "birthdate": "14 December 1916",
       "death": "8 August 1985",
       "birthplace": "San Francisco",
-      "subjects": ["sagittarius"],
-      "image": "/images/3.jpg",
+      "subjects": ["Sagittarius", "capricorn"],
+      "image": "/images/jacksons.webp",
       "starsign": ["gothic", "American-gothic"]
     },
     {
@@ -16,7 +16,7 @@
       "birthdate": "10 December 1830,",
       "death": "15 May 1886",
       "birthplace": "Amherst",
-      "subjects": ["sagittarius"],
+      "subjects": ["Sagittarius"],
       "image": "/images/2.jpg",
       "starsign": ["gothic", "poetry"]
     },

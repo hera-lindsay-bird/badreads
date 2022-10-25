@@ -4,14 +4,13 @@
   <div>Birth Date: {{birthdate}}</div>
   <div>Birthplace: {{birthplace}}</div>
   <div>Died: {{death}}</div>
-  <div>Starsign:
-    {{#each starsign}}
-      <a href='/starsign/{{starsign}}'>{{this}}</a>
-    {{/each}}</div>
-
   <div>Subjects:
     {{#each subjects}}
       <a href='/subjects/{{this}}'>{{this}}</a>
     {{/each}}
   </div>
+  <div>Starsign:
+    {{#each starsign}}
+      <a href='/subjects/{{this}}'>{{this}}</a>
+    {{/each}}</div>
 </div>

@@ -43,8 +43,6 @@ router.get('/starsign/:topic', (req, res) => {
     })
 })
 
-/////thinking about trying to add a starsign thing here and
-
 router.get('/:id', (req, res) => {
   readBook()
     .then((books) => {
@@ -57,5 +55,7 @@ router.get('/:id', (req, res) => {
       res.sendStatus(500)
     })
 })
+
+///////month
 
 module.exports = router

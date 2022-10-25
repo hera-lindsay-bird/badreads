@@ -1,11 +1,18 @@
 <div class='container'>
   {{#each books}}
     <div class='book-list'>
+
       <a href='/books/{{id}}'><img
           class='img-rectangle'
           src='{{image}}'
           alt='{{name}}'
-        /></a>
+        />
+      </a>
+      <a href='/books/{{id}}'>{{author}}</a>
+      {{birthdate}}
+      -
+      {{death}}
+
     </div>
   {{/each}}
 </div>
