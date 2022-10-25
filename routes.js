@@ -20,7 +20,7 @@ router.get('/subjects/:topic', (req, res) => {
       const booksData = booksArr.filter((book) =>
         book.subjects.includes(req.params.topic)
       )
-      res.render('self-help', { booksData })
+      res.render('keywords', { booksData })
     })
     .catch((e) => {
       console.log(e)
@@ -35,13 +35,15 @@ router.get('/starsign/:topic', (req, res) => {
       const booksData = booksArr.filter((book) =>
         book.starsign.includes(req.params.topic)
       )
-      res.render('saggitarius', { booksData })
+      res.render('keywords', { booksData })
     })
     .catch((e) => {
       console.log(e)
       res.sendStatus(500)
     })
 })
+
+/////thinking about trying to add a starsign thing here and
 
 router.get('/:id', (req, res) => {
   readBook()
