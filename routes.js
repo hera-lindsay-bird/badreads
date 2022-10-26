@@ -32,8 +32,8 @@ router.get('/starsign/:topic', (req, res) => {
   readBook()
     .then((books) => {
       const booksArr = books.books
-      const booksData = booksArr.filter((book) =>
-        book.starsign.includes(req.params.topic)
+      const booksData = booksArr.filter(
+        (book) => book.starsign && book.starsign.includes(req.params.topic)
       )
       res.render('keywords', { booksData })
     })
