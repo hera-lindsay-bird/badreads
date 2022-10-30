@@ -7,8 +7,8 @@
       "death": "8 August 1985",
       "birthplace": "San Francisco",
       "starsign": ["Sagittarius"],
-      "image": "/images/oprah.png",
-      "subjects": ["gothic", "American-gothic"]
+      "image": "/images/jacksons.webp",
+      "subjects": ["gothic","fiction", "American-gothic"]
     },
     {
       "id": 2,
@@ -17,92 +17,122 @@
       "death": "15 May 1886",
       "birthplace": "Amherst",
       "starsign": ["Sagittarius"],
-      "image": "/images/2.jpg",
-      "subjects": ["gothic", "poetry"]
+      "image": "/images/dickinsone.webp",
+      "subjects": ["gothic", "poetry", "religious"]
     },
     
     {
       "id": 3,
-      "name": "Breaking The Habit of Being Yourself",
-      "author": "Dr. Joe Dispenza",
-      "publication": "15 February 2012",
-      "image": "/images/4.jpg",
-      "subjects": ["self-help"]
+      "author": "Agatha Christie",
+      "birthdate": "15 September 1890,",
+      "death": "12 Jan 1976",
+      "birthplace": "Torquay",
+      "starsign": ["Virgo"],
+      "image": "/images/christiea.jpg",
+      "subjects": ["mystery","murder", "fiction","murdermystery"]
     },
     {
       "id": 4,
-      "name": "The Power of Now",
-      "author": "Eckhart Tolle",
-      "publication": "6 October 2010",
-      "image": "/images/5.jpg",
-      "subjects": ["self-help"]
+      "author": "Patricia Highsmith",
+      "birthdate": "19 January 1921,",
+      "death": "4 February 1995",
+      "birthplace": "Texas",
+      "starsign": ["Capricorn"],
+      "image": "/images/highsmithp.webp",
+      "subjects": ["gothic", "fiction","murder", "love", "thriller"]
     },
     {
       "id": 5,
-      "name": "The Hitchhiker's Guide to the Galaxy",
-      "author": "Douglas Adams",
-      "publication": "October 1979",
-      "image": "/images/6.jpg",
-      "subjects": ["funny", "sci-fi"]
+      "author": "Tove Jansson",
+      "birthdate": "9 August 1914",
+      "death": "27 June 2001",
+      "birthplace": "Helsinki",
+      "starsign": ["Leo"],
+      "image": "/images/janssont.jpg",
+      "subjects": ["children", "funny", "love", "fiction","philosophical"]
     },
     {
       "id": 6,
-      "name": "The Martian",
-      "author": "Andy Weir",
-      "publication": "September 2011",
-      "image": "/images/7.jpg",
-      "subjects": ["sci-fi"]
+      "author": "Kenneth Koch",
+      "birthdate": "27 February 1925,",
+      "death": "6 July 2002",
+      "birthplace": "Ohio",
+      "starsign": ["Pisces"],
+      "image": "/images/kochk.png",
+      "subjects": ["philosophical", "poetry"]
     },
     {
       "id": 7,
-      "name": "World War Z: An Oral History of the Zombie War",
-      "author": "Max Brooks",
-      "publication": "September 2006",
-      "image": "/images/8.jpg",
-      "subjects": ["sci-fi", "gothic"]
+      "author": "E. L. Konigsburg",
+      "birthdate": "10 February 1930,",
+      "death": "19 April 2013",
+      "birthplace": "New York",
+      "starsign": ["Aquarius"],
+      "image": "/images/konigsburgel.jpg",
+      "subjects": ["gothic", "fiction","poetry"]
     },
 
     {
       "id": 8,
-      "name": "Gormenghast Trilogy",
-      "author": "Mervyn Peake",
-      "publication": "1950",
-      "image": "/images/9.jpg",
-      "subjects": ["funny", "gothic"]
+      "author": "Ursula LeGuin",
+      "birthdate": "21 October 1929,",
+      "death": "22 January 2018",
+      "birthplace": "California",
+      "starsign": ["Libra"],
+      "image": "/images/leguinu.webp",
+      "subjects": ["intellectual", "fiction", "science-fiction"]
     }, 
     {
       "id": 9,
-      "name": "The Bears' Famous Invasion of Sicily",
-      "author": "Dino Buzatti",
-      "publication": "1945",
-      "image": "/images/10.jpg",
-      "subjects": ["funny", "children"]
+      "author": "Mantel Hilary",
+      "birthdate": "6 July 1952",
+      "death": "22 September 2022",
+      "birthplace": "Glossop",
+      "starsign": ["Cancer"],
+      "image": "/images/mantelh.webp",
+      "subjects": ["intellectual","fiction", "historical"]
     },
 
     {
       "id": 10,
-      "name": "We Have Always Lived in the Castle",
-      "author": "Shirley Jackson",
-      "publication": "1965",
-      "image": "/images/11.jpg",
-      "subjects": ["funny", "gothic"]
+      "author": " Frank O'Hara",
+      "birthdate": "27 March 1926,",
+      "death": "July 1966",
+      "birthplace": "Maryland",
+      "starsign": ["Aries"],
+      "image": "/images/oharaf.webp",
+      "subjects": ["funny", "poetry", "love"]
     },
 
     {
       "id": 11,
-      "name": "I Feel Bad About My Neck",
-      "author": "Nora Ephron",
-      "publication": "2006",
-      "image": "/images/13.jpg",
-      "subjects": ["funny", "self-help"]
+      "author": "Sylvia Plath",
+      "birthdate": "27 October 1932",
+      "death": "11 February 1963",
+      "birthplace": "Massachusetts",
+      "starsign": ["Scorpio"],
+      "image": "/images/plaths.jpg",
+      "subjects": ["gothic", "poetry", "love"]
     }, 
     {
       "id": 12,
-      "name": "A Wind In The Door",
-      "author": "Madeline L'Engle",
-      "publication": "1973",
-      "image": "/images/12.jpg",
-      "subjects": ["children", "sci-fi"]
+      "author": "Wallace Stevens",
+      "birthdate": "2 October 1879,",
+      "death": "2 August 1955",
+      "birthplace": "Pennsylvania",
+      "starsign": ["Libra"],
+      "image": "/images/stevensw.webp",
+      "subjects": ["intellectual", "poetry", "funny"]
+    }, 
+    {
+      "id": 13,
+      "author": "Waters John",
+      "birthdate": "22 April 1946,",
+      "death": "",
+      "birthplace": "Maryland",
+      "starsign": ["Taurus"],
+      "image": "/images/watersj.jpg",
+      "subjects": ["fiction", "funny"]
     }
   ]
 }
