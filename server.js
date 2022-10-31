@@ -7,6 +7,7 @@ const server = express()
 // Server configuration
 server.use(express.static('public'))
 server.use(express.urlencoded({ extended: false }))
+// const viewsFolder = path.join(__dirname, 'views')
 
 // Handlebars configuration
 server.engine('hbs', hbs.engine({ extname: 'hbs' }))
